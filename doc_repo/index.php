@@ -1,0 +1,1 @@
+additional text files to support query implementationpart 1part 2part 3part 4part 5hocuspocus3 word file for testing exact matchsame 3 words as building1.txt but in reverse order, words match but files don't matchLast Updated: April 07, 2020
